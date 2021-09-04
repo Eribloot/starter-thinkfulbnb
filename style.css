@@ -44,18 +44,11 @@ main img
   width: 100%;
 }
 
-.about-img 
+.img
 {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-
-.host-img 
-{
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
 /* ---  Groups & Items --- */
 
 .group 
@@ -146,7 +139,7 @@ form button
   width: 100%;
 }
 
-.form-input 
+.input 
 {
   display: flex;
   justify-content: space-between;
@@ -219,7 +212,7 @@ footer p
     font-weight: bold;
   }
 
-  .form-input 
+  .input 
   {
     padding-right: 15px;
     justify-content: center;
